@@ -1,0 +1,4 @@
+The lab is implemented with a standard ide and or can be ran in terminal. To run:
+
+"javac *.java "
+"java Test inputx"
